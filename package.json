@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "bcrypt": "^4.0.1",
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.4.1",
     "handlebars": "^4.7.6",
     "hapi": "^17.5.5",
     "inert": "^5.1.3",
